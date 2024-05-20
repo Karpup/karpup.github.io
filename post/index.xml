@@ -5,24 +5,24 @@
     
     
     
-    <link>karpup.github.io/post/</link>
+    <link>//localhost:1313/post/</link>
     <description>Recent content in Posts on Avokadai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="karpup.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Avokado atostogos</title>
-      <link>karpup.github.io/post/avokado-atostogos/</link>
+      <link>//localhost:1313/post/avokado-atostogos/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>karpup.github.io/post/avokado-atostogos/</guid>
+      <guid>//localhost:1313/post/avokado-atostogos/</guid>
       <description>
         
-          &lt;img src=&#34;karpup.github.io/img/Avokado_atostogos.jpg&#34;/&gt;
+          &lt;img src=&#34;//localhost:1313/img/Avokado_atostogos.jpg&#34;/&gt;
           
         
         
@@ -34,14 +34,33 @@
     </item>
     
     <item>
-      <title>Hello Friend</title>
-      <link>karpup.github.io/post/hello/</link>
-      <pubDate>Wed, 17 Sep 1986 00:00:00 +0000</pubDate>
+      <title>Formulės rašymas</title>
+      <link>//localhost:1313/post/formul%C4%97s-ra%C5%A1ymas/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>karpup.github.io/post/hello/</guid>
+      <guid>//localhost:1313/post/formul%C4%97s-ra%C5%A1ymas/</guid>
       <description>
         
-          &lt;img src=&#34;karpup.github.io/img/hello.jpg&#34;/&gt;
+          &lt;img src=&#34;//localhost:1313/img/Kodavimas.jpg&#34;/&gt;
+          
+        
+        
+        
+          Taip atrodo nuotraukos įkėlimo formulė
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Hello Friend</title>
+      <link>//localhost:1313/post/hello/</link>
+      <pubDate>Wed, 17 Sep 1986 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/post/hello/</guid>
+      <description>
+        
+          &lt;img src=&#34;//localhost:1313/img/hello.jpg&#34;/&gt;
           
         
         

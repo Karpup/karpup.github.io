@@ -2,28 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>karpup.github.io/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2024-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>karpup.github.io/post/avokado-atostogos/</loc>
+    <loc>//localhost:1313/post/avokado-atostogos/</loc>
     <lastmod>2024-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>karpup.github.io/post/</loc>
+    <loc>//localhost:1313/post/formul%C4%97s-ra%C5%A1ymas/</loc>
     <lastmod>2024-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>karpup.github.io/about/</loc>
+    <loc>//localhost:1313/post/</loc>
+    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/about/</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>karpup.github.io/showcase/</loc>
+    <loc>//localhost:1313/showcase/</loc>
     <lastmod>2019-01-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>karpup.github.io/post/hello/</loc>
+    <loc>//localhost:1313/post/hello/</loc>
     <lastmod>1986-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>karpup.github.io/archive/</loc>
+    <loc>//localhost:1313/archive/</loc>
   </url><url>
-    <loc>karpup.github.io/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
   </url><url>
-    <loc>karpup.github.io/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
   </url>
 </urlset>
